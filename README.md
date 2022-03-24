@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @redhym
+- 👋 Hi, I’m Hyma
 - 👀 I’m interested in pursuing data analytics
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL, Advance Excel and Python
 - 💞️ I’m looking to collaborate on SQL
-- 📫 How to reach me GIT
+- 📫 You can reach me on GIT
 
 <!---
 redhym/redhym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
