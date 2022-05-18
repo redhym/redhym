@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hyma! Data Analyst. Here to learn and practise more to land a job in this field.
+- 👋 Hi, I’m Hyma! Data Analyst. Here to learn and practise more real-time data related projects.
 - 🔍 I am interested in sharing my projects and build a portfolio.
 - 📫 Reach me @ hr274078@gmail.com
 
