@@ -1,3 +1,7 @@
+<span class="wave">👋</span>  
+
+
+
 # 💫About Me :
 👋 Hi, I’m Hyma! Data Analyst. Here to learn and practice more real-time data related projects.  
 🔍 I am interested in sharing my projects and build a portfolio.  
